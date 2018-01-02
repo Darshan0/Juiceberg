@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333171560937",
+    "firebase_url": "https://juiceberg-9a829.firebaseio.com",
+    "project_id": "juiceberg-9a829",
+    "storage_bucket": "juiceberg-9a829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333171560937:android:a0f96982280a24ee",
+        "android_client_info": {
+          "package_name": "com.juiceberg.juiceberg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333171560937-suq91qj66b1t8hrvu07srvomggfn19mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juiceberg.juiceberg",
+            "certificate_hash": "4f52ace1a19eb995607d9d3307328eb08b9e5741"
+          }
+        },
+        {
+          "client_id": "333171560937-jco7rf57vvqp9juq9pr09r9mujq5tuv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHngdzrTAciQNP8BC-gTuQ2u2DzqXEmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333171560937-jco7rf57vvqp9juq9pr09r9mujq5tuv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
